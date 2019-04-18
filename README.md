@@ -8,6 +8,8 @@
 
 BASE URL      : https://vrest.io/i/yemsep/m/SP/
 
+The default username / password    : admin/admin
+
 Web service A to auth login        : Call<AuthModel> login(@Path("username") String username, @Path("password") String password);
   
 Web service B to get USER INFO     : Call<UserModel> getUserData();
