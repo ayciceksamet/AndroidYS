@@ -18,4 +18,8 @@ Web service C to get USER DETALILS : Call<UserModel> getUserDetails();
 
 The update operation of User details are implemented as dummy to sharedpreferences. The local DB or remote server will be triggered with rest call to updated these informations successfully.
 
+You can download the apk from :
+
+https://drive.google.com/open?id=1u99gneNpUkpaw1ACV1yrJf40yjWFibks
+
 
