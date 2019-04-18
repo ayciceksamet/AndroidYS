@@ -1,0 +1,8 @@
+
+squid:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶Å‰ 8ßÊßˆ¢-
+squid:S1319+"rThe type of the "results" object should be an interface such as "List" rather than the implementation "ArrayList".(Ì´R8ßÊßˆ¢-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î†÷²ıÿÿÿÿ
+…squid:S41655"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8Î³«š¢-
+Nsquid:S1172F"+Remove this unused method parameter "name".(å½ø¤üÿÿÿÿ8õÜ¨š¢-
+Osquid:S11724",Remove this unused method parameter "phone".(é••¨ûÿÿÿÿ8Î³«š¢-
+ˆsquid:S4165G"eRemove this useless assignment; "surname" already holds the assigned value along all execution paths.(ã§Âªøÿÿÿÿ8Şğ¨š¢-

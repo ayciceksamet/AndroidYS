@@ -1,0 +1,8 @@
+
+vsquid:UselessImportCheck"FRemove this unused import 'com.ayvisionapp.androidys.Model.UserModel'.(„Ø™ûÿÿÿÿ8µ«ßâ¢-
+xsquid:UselessImportCheck"HRemove this unused import 'com.ayvisionapp.androidys.Service.ApiClient'.(××€¶ıÿÿÿÿ8ô¿“ã¢-
+msquid:UselessImportCheck"IRemove this unused import 'com.ayvisionapp.androidys.Service.ApiService'.(åÉïÑ
+ksquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(·¡ïõøÿÿÿÿ
+Nsquid:S1905""+Remove this unnecessary cast to "EditText".(„éã¾ûÿÿÿÿ8øğé¢-
+Nsquid:S1905#"+Remove this unnecessary cast to "EditText".( ø«Šşÿÿÿÿ8øğé¢-
+Lsquid:S1905$")Remove this unnecessary cast to "Button".(§§ëœùÿÿÿÿ8øğé¢-

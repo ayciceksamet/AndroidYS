@@ -1,0 +1,7 @@
+
+dsquid:UselessImportCheck"9Remove this unused import 'android.annotation.TargetApi'.(¥Îì‘8¿ì•ê¢-
+Nsquid:S19051"+Remove this unnecessary cast to "TextView".(°ÙÂ£üÿÿÿÿ8·Ê©›¢-
+Isquid:S19052"+Remove this unnecessary cast to "TextView".(°ìùÄ8·Ê©›¢-
+“squid:S1319"pThe type of the "users" object should be an interface such as "List" rather than the implementation "ArrayList".(“­ÍÂüÿÿÿÿ8€¥‰¢-
+Nsquid:S19050"+Remove this unnecessary cast to "TextView".(´•µøúÿÿÿÿ8·Ê©›¢-
+]squid:UselessImportCheck"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ8¿ì•ê¢-
