@@ -1,16 +1,16 @@
 
-\squid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§8İ’Øá¢-
-msquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–ÊÆ8İ’Øá¢-
 Isquid:S1905R"+Remove this unnecessary cast to "EditText".(–Àå»8İ’Øá¢-
 usquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‚úàøÿÿÿÿ8Š¬Û™¢-
-Asquid:S1148I"#Use a logger to log this exception.(Ç’Çê8İ’Øá¢-
-Nsquid:S1905S"+Remove this unnecessary cast to "EditText".(‡æ½èøÿÿÿÿ8İ’Øá¢-
-Gsquid:S1905&")Remove this unnecessary cast to "Button".(Ğ…Ú8öÎ”ê¢-
+csquid:UselessImportCheck"3Remove this unused import 'java.lang.reflect.Type'.(‰ûÕñıÿÿÿÿ8İ’Øá¢-
 ksquid:S1192["HDefine a constant instead of duplicating this literal "address" 3 times.(øœ¡¥üÿÿÿÿ8¢Öêô¢-
-Nsquid:S1172u"+Remove this unused method parameter "view".(õïøÒşÿÿÿÿ8ÒéÍô¢-
 osquid:S1192\"LDefine a constant instead of duplicating this literal "phoneNumber" 3 times.(ÏÕÛüÿÿÿÿ8¹÷êô¢-
 nsquid:UselessImportCheck">Remove this unused import 'com.google.gson.reflect.TypeToken'.(İªıñøÿÿÿÿ8İ’Øá¢-
-csquid:UselessImportCheck"3Remove this unused import 'java.lang.reflect.Type'.(‰ûÕñıÿÿÿÿ8İ’Øá¢-
-Nsquid:S1905P"+Remove this unnecessary cast to "TextView".(±Û§Ÿûÿÿÿÿ8İ’Øá¢-
 Isquid:S1905Q"+Remove this unnecessary cast to "TextView".(·©–8İ’Øá¢-
+Nsquid:S1172u"+Remove this unused method parameter "view".(õïøÒşÿÿÿÿ8ÒéÍô¢-
+Gsquid:S1905&")Remove this unnecessary cast to "Button".(Ğ…Ú8öÎ”ê¢-
+msquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–ÊÆ8İ’Øá¢-
+\squid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§8İ’Øá¢-
+Asquid:S1148I"#Use a logger to log this exception.(Ç’Çê8İ’Øá¢-
 rsquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(îÕáğùÿÿÿÿ8Š¬Û™¢-
+Nsquid:S1905P"+Remove this unnecessary cast to "TextView".(±Û§Ÿûÿÿÿÿ8İ’Øá¢-
+Nsquid:S1905S"+Remove this unnecessary cast to "EditText".(‡æ½èøÿÿÿÿ8İ’Øá¢-

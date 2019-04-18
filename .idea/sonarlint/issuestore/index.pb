@@ -37,3 +37,7 @@ n
 >app/src/main/java/com/ayvisionapp/androidys/LoginActivity.java,8\7\87dbd62a62835aa5975b7a01afb389e8d766e21c
 h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0\7\078508c831007ccb3938b355f0d30a8368f99a8d
+
+Oapp/src/androidTest/java/com/ayvisionapp/androidys/ExampleInstrumentedTest.java,c\7\c735504ed67f353de28ebdad479942af249e6801
+n
+>app/src/test/java/com/ayvisionapp/androidys/LoginUnitTest.java,8\3\83d985591634d149821bf985161efe2caee4e6ee

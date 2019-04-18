@@ -1,10 +1,10 @@
 
-Isquid:S1905'"+Remove this unnecessary cast to "ListView".(®·‘Â8Î‡º™¢-
+Nsquid:UselessImportCheck"Remove this duplicated import.(°şÊóøÿÿÿÿ8øİš‰¢-
 msquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‚·ü8ŸÍ‰¢-
 fsquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(²Ú±
-Isquid:S1905d"+Remove this unnecessary cast to "ListView".(®·‘Â8‚ğ“›¢-
-usquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘ÜŸùÿÿÿÿ8ùÍ¬›¢-
-Tsquid:S2696c"6Make the enclosing method "static" or remove this set.(˜Š¦ª8‚ğ“›¢-
 Nsquid:UselessImportCheck"Remove this duplicated import.(«Û®ûüÿÿÿÿ8øİš‰¢-
+Tsquid:S2696c"6Make the enclosing method "static" or remove this set.(˜Š¦ª8‚ğ“›¢-
+Isquid:S1905d"+Remove this unnecessary cast to "ListView".(®·‘Â8‚ğ“›¢-
+Isquid:S1905'"+Remove this unnecessary cast to "ListView".(®·‘Â8Î‡º™¢-
+usquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘ÜŸùÿÿÿÿ8ùÍ¬›¢-
 Asquid:S1148\"#Use a logger to log this exception.(Ç’Çê8‚ğ“›¢-
-Nsquid:UselessImportCheck"Remove this duplicated import.(°şÊóøÿÿÿÿ8øİš‰¢-
