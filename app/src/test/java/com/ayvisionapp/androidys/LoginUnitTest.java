@@ -19,10 +19,7 @@ public class LoginUnitTest {
     @Test
     public void readLoginAuth_LoginActivity() {
 
-        LoginActivity myObjectUnderTest = new LoginActivity(mMockContext);
-
-        // ...when the string is returned from the object under test...
-        Boolean result = myObjectUnderTest.validateLogin("admin","admin");
+        Boolean result = LoginActivity.validateLogin("admin","admin");
 
         assertThat(result, is(true));
     }
@@ -31,10 +28,7 @@ public class LoginUnitTest {
     @Test
     public void readLoginAuthPasswordEmpty_LoginActivity() {
 
-        LoginActivity myObjectUnderTest = new LoginActivity(mMockContext);
-
-        // ...when the string is returned from the object under test...
-        Boolean result = myObjectUnderTest.validateLogin("admin","");
+        Boolean result = LoginActivity.validateLogin("admin","");
 
         assertThat(result, is(false));
     }
@@ -43,10 +37,7 @@ public class LoginUnitTest {
     @Test
     public void readLoginAuthUsernameEmpty_LoginActivity() {
 
-        LoginActivity myObjectUnderTest = new LoginActivity(mMockContext);
-
-        // ...when the string is returned from the object under test...
-        Boolean result = myObjectUnderTest.validateLogin("","admin");
+        Boolean result = LoginActivity.validateLogin("","admin");
 
         assertThat(result, is(false));
     }

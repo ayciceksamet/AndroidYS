@@ -54,11 +54,8 @@ public class LoginActivity extends AppCompatActivity {
 
     }
 
-    public LoginActivity(Context context){
 
-    }
-
-    public boolean validateLogin(String username, String password){
+    public static boolean validateLogin(String username, String password){
         if(username == null || username.trim().length() == 0){
             return false;
         }
