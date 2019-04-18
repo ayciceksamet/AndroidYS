@@ -1,5 +1,6 @@
 package com.ayvisionapp.androidys;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -45,25 +46,29 @@ public class LoginActivity extends AppCompatActivity {
                 if(validateLogin(username, password)){
                     //do login
                     doLogin(username, password);
+                }else{
+                    Toast.makeText( LoginActivity.this,"Password and Username required", Toast.LENGTH_SHORT).show();
                 }
             }
         });
 
     }
 
-    private boolean validateLogin(String username, String password){
+    public LoginActivity(Context context){
+
+    }
+
+    public boolean validateLogin(String username, String password){
         if(username == null || username.trim().length() == 0){
-            Toast.makeText(this, "Username is required", Toast.LENGTH_SHORT).show();
             return false;
         }
         if(password == null || password.trim().length() == 0){
-            Toast.makeText(this, "Password is required", Toast.LENGTH_SHORT).show();
             return false;
         }
         return true;
     }
 
-    private void doLogin(final String username,final String password){
+    public void doLogin(final String username,final String password){
         Call call = loginApiService.login(username,password);
         call.enqueue(new Callback<AuthModel>() {
             @Override
